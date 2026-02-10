@@ -4,6 +4,6 @@ Test
 
 ## Erick Rivera Salamanca
 
-## BI Developer | Data Engineer  | Cloud Engineer
+## BI Developer | Data Engineer | Cloud Data Engineer (GCP)
 Zapopan, Jalisco, Méx.
 eriverasalamanca@gmail.com
